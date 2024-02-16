@@ -2,7 +2,7 @@ const HeroHeading = () => {
   const typedSpan = document.getElementById("typed");
   const totype = [
     "A Tech Enthusiast",
-    "A Gamer",
+    "A Book Lover",
     "AI & ML Enthusiast",
     "A Web Developer",
     "A Programmer",

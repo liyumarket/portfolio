@@ -25,17 +25,17 @@ const ContactForm = () => {
         <div>
           <p className="contact-links">
             <MdEmail />
-            randiltharusha72@gmail.com
+            beamlaktadesse4@gmail.com
           </p>
           <br />
           <p className="contact-links">
             <FaPhoneAlt />
-            +94 78 134 7983
+            +251 905236095
           </p>
           <br />
           <p className="contact-links">
             <IoLocation />
-            Sri Lanka
+            Addis Ababa, Ethiopia
           </p>
           <br />
         </div>

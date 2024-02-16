@@ -1,31 +1,31 @@
 //projects start
 const projects = [
   {
-    name: "Booking.com clone",
+    name: "ZemaMultimedia",
     description:
-      "A clone of booking.com which is built using Nextjs 14 and Oxylabs webscraping API to scrape data from the official booking.com website and show as results of our queries",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
-    img: "/bookingcom.jpg",
-    preview: "https://bookingcomnext14.netlify.app/",
+      "ZemaMultimedia app is a music streaming app that is built using Flutter. My role in this app was to build the user interface and manage the API calls. I used the provider package to manage the state and also the app has Firebase for user authentication. I was also part of the development of the admin portal for the app using React.",
+    stack: ["Flutter","React", "Material UI"],
+    sourceCode: "https://play.google.com/store/apps/details?id=com.zema.music.player&hl=en&gl=US&pli=1",
+    img: "https://play-lh.googleusercontent.com/Fv1Pypgj9M1Pg7R64EpVLn86QUDTER9WIyl6fJcfAGML2djn0NmlZ1PQ0l1jrwk7SoI=w480-h960-rw",
+    preview: "https://play.google.com/store/apps/details?id=com.zema.music.player&hl=en&gl=US&pli=1",
   },
   {
-    name: "Cyberscourge Hub",
+    name: "Afro Taxi",
     description:
-      "An open source ultra fast markdown blog app built using Hugo and deployed on Netlify. The theme of this app is 100% custom built by me. The theme is also open source and can be found on my github profile. And I regularly write articles on this blog.",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/cyberscourge-hub",
-    img: "/cyberscourge.jpg",
-    preview: "https://rtharusha.tech",
+      "I worked on this app while I was working in Etech sc. It has uber like functionalities. I implemented Google map functionalities like auto-complete, google places API, google navigation API, and socket io for communication with the APIs. The app is built using Flutter.",
+    stack: ["Flutter"],
+    sourceCode: "https://play.google.com/store/apps/details?id=com.etechproject.eTaxi",
+    img: "https://play-lh.googleusercontent.com/gYESiZ47TxwUYGP0uWnyFtqSXHhG0MTla3N3prMpjy8tLHJc5IlhickSutIMAi7s8Q=w480-h960-rw",
+    preview: "https://play.google.com/store/apps/details?id=com.etechproject.eTaxi",
   },
   {
-    name: "Jotion (Notion Clone)",
+    name: "Ethio Power",
     description:
-      "A clone of the popular note taking app Notion. This app is built using Nextjs 13 and Tailwind CSS. It uses clerk for authentication and convex for its real time database. The project is not yet complete ",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/notion-clone",
-    img: "/jotion.jpg",
-    preview: "#",
+      "I developed the admin web app for an app that sells solar cell to generate power. The technologies I used are react, tailwind, and redux for statmanagment.",
+    stack: ["React", "tailwind"],
+    sourceCode: "https://ethio-solar.netlify.app/",
+    img: "",
+    preview: "https://ethio-solar.netlify.app/",
   },
 ];
 
